@@ -57,7 +57,7 @@
 2. Slack 채널에 공지된 레포지토리를 clone합니다.
 3. clone한 레포지토리에서 docker-compose up -d 명령어를 실행합니다.
 4. Docker Desktop에서 컨테이너가 정상적으로 실행되는지 확인합니다.
-
+- API 명세서는 [Swagger](http://localhost:8080/swagger-ui/index.html#/)를 통해 확인할 수 있습니다.
 <br><br>
 
 ---
