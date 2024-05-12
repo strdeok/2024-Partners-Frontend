@@ -52,12 +52,7 @@
 
 <br><br>
 
-### API 서버 세팅 방법
-1. 운영체제에 맞게 Docker Desktop을 세팅합니다.
-2. Slack 채널에 공지된 레포지토리를 clone합니다.
-3. clone한 레포지토리에서 docker-compose up -d 명령어를 실행합니다.
-4. Docker Desktop에서 컨테이너가 정상적으로 실행되는지 확인합니다.
-- API 명세서는 [Swagger](http://localhost:8080/swagger-ui/index.html#/)를 통해 확인할 수 있습니다.
+[API 서버 세팅 가이드](https://busy-catboat-73d.notion.site/UrlShortener-Backend-Django-ver-f56bb135bbd247e79c8cb250e09d1a4d)
 <br><br>
 
 ---
